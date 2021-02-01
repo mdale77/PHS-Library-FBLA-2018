@@ -1,0 +1,6 @@
+framework module Pods_PHS_Library {
+  umbrella header "Pods-PHS Library-umbrella.h"
+
+  export *
+  module * { export * }
+}
